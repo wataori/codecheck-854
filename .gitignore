@@ -36,3 +36,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+/vendor/
+/log/*
+/tmp/*
+.byebug_history
+.env

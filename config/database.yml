@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: codecheck-854_development
+
+test:
+  <<: *default
+  database: codecheck-854_test
+
+production:
+  <<: *default
+  database: damqiggihr8oid
+  username: diykgbatdxuvin
+  password: <%= ENV['DB_PW'] %>
+  url: <%= ENV['DB_URL'] %>
