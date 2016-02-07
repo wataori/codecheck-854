@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/wataori/codecheck-854.svg?style=svg)](https://circleci.com/gh/wataori/codecheck-854)
+
 # ポートフォリオを作ろう！
 このチャレンジは [Heroku](https://heroku.com) でサーバーが立っている事が前提となります。
 始める前に Heroku でチャレンジ用の[アプリケーションを作って](https://dashboard.heroku.com/new)ください。

@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/wataori/codecheck-854.svg?style=svg)](https://circleci.com/gh/wataori/codecheck-854)
+
 # Make your own portfolio!
 This challenge assume that there is a server hosted by [Heroku](https://heroku.com).
 Please [make a new application](https://dashboard.heroku.com/new) for this challenge in Heroku.
